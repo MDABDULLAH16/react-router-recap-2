@@ -9,7 +9,7 @@ const Header = () => {
         <CustomLInk to="/" end>
           Home{" "}
         </CustomLInk>
-        <CustomLInk to="/friend">Friend</CustomLInk>
+        <CustomLInk to="/friends">Friend</CustomLInk>
         <CustomLInk to="/about">About</CustomLInk>
         <CustomLInk to="/contact">Contact</CustomLInk>
       </ul>
